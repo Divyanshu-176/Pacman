@@ -238,7 +238,7 @@ function update(){
     }
     move()
     draw()
-    setTimeout(update, 50)
+    setTimeout(update, 30)
 }
 
 function draw(){
